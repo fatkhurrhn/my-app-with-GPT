@@ -11,7 +11,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard-container">
-      <h1>Admin Dashboard</h1>
+      <h1>Admin Dashboardsss</h1>
       <p>Welcome to the admin dashboard!</p>
       
       {/* Link ke User Profile */}
